@@ -58,7 +58,8 @@ hr{ width: 400px;
     background: transparent;}
 .Barra4 {width: 70%;
         height: 30px;
-        text-align: end;}
+        }
+::placeholder {text-align: end;}        
 .Contenido2 {text-align: start;
             margin-left: 15px;}    
 .CuadroMayor2 {background-color: #cce3de;
