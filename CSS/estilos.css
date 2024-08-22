@@ -13,7 +13,11 @@ h1 {color:white;
   border-width: 20px;
   margin-left: 200px;
   margin-right: 200px;
-  }      
+  }   
+/* Paleta de Colores
+ #525a3a Color Ocre claro
+ #212529 Negro claro 
+ cce3de Blanco opaco*/     
 
 legend {border: solid;
         border-radius: 4px;
@@ -47,7 +51,7 @@ legend {border: solid;
 .Barra {width: 70%;
       height: 30px;}
 .BarraTexto { width: 70%;
-            height: 140px;}
+            height: 40px;}
 form {width: 100%;}
 hr{ width: 400px;
     text-align: center;
@@ -72,6 +76,7 @@ hr{ width: 400px;
   margin-right: 180px;}
 .Contenido3 {color: white;
            text-align: start;}
+
 button {background-color:#525a3a;
         border: solid;
         border-color:#868c73 ;
